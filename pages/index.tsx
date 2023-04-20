@@ -13,7 +13,7 @@ type IndexProps = {
 export const Index = ({ posts }: IndexProps): JSX.Element => {
   return (
     <Layout>
-      <h1>It's Me</h1>
+      <h1>It&apos;s Me</h1>
       {/* <p>Next.js starter for your next blog or personal site. Built with:</p>
       <ul className="list-disc pl-4 my-6">
         <li>Next.js</li>
