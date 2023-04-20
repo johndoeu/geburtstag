@@ -15,14 +15,14 @@ export const About = (): JSX.Element => {
       </p>
 
       <p>
-        I thought the "better" website was ready to be <i>used</i>, but it has
+        I thought the &quot;better&quot; website was ready to be <i>used</i>, but it has
         some errors on it! Arghh!!! And do you know what makes it worse? I check
         that website on the D-5 before D-Day!
       </p>
 
       <p>
-        So my laziness body and mind didn't afford to fix that error. Sorry,
-        actually. But, I don't want to break my promise to you. With all my
+        So my laziness body and mind didn&apos;t afford to fix that error. Sorry,
+        actually. But, I don&apos;t want to break my promise to you. With all my
         super power, I present this website for you.
       </p>
 
