@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NextJS - Typescript - MDX - Blog
 
 A Next.js starter for your next blog or personal site. Built with:
@@ -30,3 +31,6 @@ npm run dev
 ```
 
 Your new site will be up at http://localhost:3000/
+=======
+# geburtstag
+>>>>>>> 5d2f1d3155a1931400708fa22d515e2b9438c9d3
